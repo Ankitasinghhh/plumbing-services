@@ -13,7 +13,7 @@ This project is a simple implementation of an evaluation assignment using HTML, 
 2. Open the `index.html` file in your browser.
 
 ## Hosting
-The project is hosted on GitHub Pages. You can access it at [].
+The project is hosted on GitHub Pages. You can access it at [https://ankitasinghhh.github.io/plumbing-services/].
 
 ## Instructions
 1. Make sure to include all code inside the div with ID “assignment”.
